@@ -122,3 +122,29 @@ span{
     font-size: 25px;
     padding-right: 20px;
 }
+.footer-container{
+    padding-bottom: 70px;
+   
+}
+.footer-container-class{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border: 2px solid gray;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#font{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: rgb(230, 25, 25);
+}
