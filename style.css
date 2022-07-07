@@ -103,7 +103,7 @@ span{
 }
 
 
-.fifth-page{
+.fourth-page{
     display: flex;
     padding-top: 150px;
     padding-bottom: 50px;
@@ -111,28 +111,14 @@ span{
     padding-left: 70px;
    
 }
-.fifth-page img{
+.fourth-page img{
     width: 75%;
     padding-left: 60px;
     padding-top: 45px;
     padding-right: 0;
     
 }
-.fifth-page-class{
+.fourth-page-class{
     font-size: 25px;
     padding-right: 20px;
-}
-.footer-container{
-    padding-bottom: 70px;
-   
-}
-.footer-container-class{
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-right: 300px;
-    margin-left: 300px;
-    border: 2px solid gray;
-    
 }
